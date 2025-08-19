@@ -4,14 +4,6 @@
 In this demo, I integrated **Google Cloud Storage (GCS)** with a **Compute Engine VM** using the Google Cloud Console.
 
 ---
-## 🔑 Learning Objectives
-- Create a **Cloud Storage bucket**.  
-- Create and configure a **Service Account** for secure access.  
-- Launch a **Compute Engine VM** with the Service Account attached.  
-- Use the VM to **read and write objects** in the bucket.  
-- Clean up resources when finished.  
-
----
 ## 📝 Step-by-Step Instructions
 
 ### **Step 1: Create a Cloud Storage Bucket**
