@@ -1,7 +1,7 @@
 
 # 🚀 Hands-On Demo: Google Cloud Storage with Compute Engine VM
 
-In this demo, I integrated **Google Cloud Storage (GCS)** with a **Compute Engine VM** using the **Google Cloud Console **.  
+In this demo, I integrated **Google Cloud Storage (GCS)** with a **Compute Engine VM** using the Google Cloud Console.
 
 ---
 ## 🔑 Learning Objectives
