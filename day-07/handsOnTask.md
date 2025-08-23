@@ -45,7 +45,7 @@ Learned how to deploy a production-ready, highly available web application in GC
 5. Add **network tag**: `http-server`
 6. Click **Create**
 
-  ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/Instance-Template.jpg) 
+  ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/Instance-Template.jpg) 
 
 ---
 
@@ -62,7 +62,7 @@ Learned how to deploy a production-ready, highly available web application in GC
    - Number of instances: 3 (1 per zone)
 4. Click **Create**
 
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/Instance_Groups.jpg) 
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/Instance_Groups.jpg) 
 
 ---
 
@@ -91,7 +91,7 @@ Learned how to deploy a production-ready, highly available web application in GC
    - Port: 80
 4. Click **Create**
 
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/Health-Checks.jpg) 
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/Health-Checks.jpg) 
 
 ---
 
@@ -109,9 +109,9 @@ Learned how to deploy a production-ready, highly available web application in GC
      - Attach the **health check** (`basic-health-check`)
 5. Click **Next**
    
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/Load_Balancer.jpg) 
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/Load_Balancer.jpg) 
 
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/LB-Details.jpg) 
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/LB-Details.jpg) 
 ---
 
 ### 🛠️ Step 7: Configure URL Map and Frontend
@@ -135,11 +135,11 @@ Learned how to deploy a production-ready, highly available web application in GC
     Welcome to MIG Demo - web-xxxxx
     ```
 
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/instance1.jpg)
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/instance1.jpg)
 
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/instance2.jpg)
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/instance2.jpg)
 
-   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/day07-HandsOnScreenshots/instance3.jpg) 
+   ![Verify ](https://github.com/RishikeshWadi/gcp-zero-to-hero/blob/Day7-GCP/day-07/HandsOnScreenshots/instance3.jpg) 
    
 
 ---
